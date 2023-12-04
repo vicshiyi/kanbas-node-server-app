@@ -12,7 +12,7 @@ const assignment = {
     due: "2021-10-10",
     completed: false,
     score: 0,
-  };
+};
   
 
 function Lab5(app) {

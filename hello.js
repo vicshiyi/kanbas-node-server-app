@@ -1,3 +1,4 @@
+// console.log("Hello World!");
 const Hello = (app) => {
     app.get('/hello', (req, res) => {
       res.send('Life is good!')
